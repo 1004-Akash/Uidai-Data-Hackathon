@@ -49,7 +49,7 @@ The main API endpoint is:
 `GET /resource/ecd49b12-3084-4521-8f7e-ca8bf72069ba`
 
 **Parameters:**
-- `api-key`: `579b464db66ec23bdd00000148c8a89dd06f4f7050828ca356664856`
+- `api-key`: `generated-api-key`
 - `format`: `json`, `csv`, or `xml` (default: `json`)
 - `offset`: Pagination offset (default: `0`)
 - `limit`: Pagination limit (default: `10`)
